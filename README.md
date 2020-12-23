@@ -1,5 +1,7 @@
 # test-gmt351
 
-Hello GMT 351
+* Project title: xxx
+* Team members: xxx, zxx, xxx
+* Project description:
 
-Here you describe your projects.
+xxx
